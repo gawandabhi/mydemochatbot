@@ -4,7 +4,11 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gawandabhi/mydemochatbot.git"
   },
   "author": "Abhishek Gawand",
   "license": "ISC",
