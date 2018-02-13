@@ -1,0 +1,14 @@
+{
+  "name": "sandvickchatbot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Abhishek Gawand",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
